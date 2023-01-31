@@ -7,6 +7,8 @@ I am considering starting a bike-sharing compant in Des Moines, Iowa so I used T
 ## Results
 Based on the visualizations in my Tableau Story, there are five key findings we can conclude about CitiBike use in NYC.  
 
+[link to dashboard](https://public.tableau.com/app/profile/merry.martin/viz/NYC_CitiBike_Challenge_16746836141610/NYCCitiBikeStory?publish=yes)
+
 ### 5 Key Findings
 * The most popular pick-up and drop-off locations for CitiBike in NYC are around tourist locations, in the heart of the city.
 ![top_starting_locations](https://user-images.githubusercontent.com/115426070/215845596-54264b34-9e87-46f2-ad89-8df9a70cf227.png)
