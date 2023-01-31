@@ -2,10 +2,10 @@
 module 15
 
 ## Project Overview
-I am considering starting a bike-sharing compant in Des Moines, Iowa.  I first used Tableau to fully understand how the successful bike-sharing program was already working in NYC.  I then applied what I learned about NYC to create a plan that could work for a future bike-sharing program in DesMoines.  
+I am considering starting a bike-sharing compant in Des Moines, Iowa so I used Tableau to understand how the successful bike-sharing program is already working in NYC.    
 
 ## Results
-Based on the visualizations in my Tableau Story, there are five key findings we can conclude about VitiBike use in NYC.  
+Based on the visualizations in my Tableau Story, there are five key findings we can conclude about CitiBike use in NYC.  
 
 ### 5 Key Findings
 * The most popular pick-up and drop-off locations for CitiBike in NYC are around tourist locations, in the heart of the city.
@@ -59,7 +59,7 @@ Based on the visualizations in my Tableau Story, there are five key findings we 
 ## Summary
 Most CitiBike users are regular subscribers that use the bikes for commuting short distances, perhaps as the last portion of their journey after they take the bus or subway.  
 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+### Additional Helpful Visualizations
 
 * Trips by User Types - This shows that casual users rent more bikes on the weekends but subscribers still outnumber them.
 
